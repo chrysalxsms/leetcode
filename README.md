@@ -19,10 +19,19 @@ My LeetCode submissions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chrysalxsms/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/chrysalxsms/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chrysalxsms/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chrysalxsms/leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chrysalxsms/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chrysalxsms/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
