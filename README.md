@@ -22,6 +22,7 @@ My LeetCode submissions
 | [0020-valid-parentheses](https://github.com/chrysalxsms/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/chrysalxsms/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chrysalxsms/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/chrysalxsms/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
