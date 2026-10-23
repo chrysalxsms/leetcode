@@ -8,6 +8,7 @@ My LeetCode submissions
 | [0238-product-of-array-except-self](https://github.com/chrysalxsms/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chrysalxsms/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/chrysalxsms/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/chrysalxsms/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chrysalxsms/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -48,4 +49,8 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/chrysalxsms/leetcode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/chrysalxsms/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
