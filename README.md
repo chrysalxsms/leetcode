@@ -6,6 +6,7 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chrysalxsms/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/chrysalxsms/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/chrysalxsms/leetcode/tree/master/0605-can-place-flowers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chrysalxsms/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
@@ -16,6 +17,7 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/chrysalxsms/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/chrysalxsms/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chrysalxsms/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
