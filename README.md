@@ -7,6 +7,7 @@ My LeetCode submissions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chrysalxsms/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/chrysalxsms/leetcode/tree/master/0605-can-place-flowers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/chrysalxsms/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
@@ -35,4 +36,8 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chrysalxsms/leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/chrysalxsms/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
