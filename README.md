@@ -28,6 +28,7 @@ My LeetCode submissions
 | [0151-reverse-words-in-a-string](https://github.com/chrysalxsms/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chrysalxsms/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/chrysalxsms/leetcode/tree/master/0392-is-subsequence) |
+| [2409-count-days-spent-together](https://github.com/chrysalxsms/leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/chrysalxsms/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
@@ -53,4 +54,8 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/chrysalxsms/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/chrysalxsms/leetcode/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
