@@ -9,6 +9,7 @@ My LeetCode submissions
 | [0283-move-zeroes](https://github.com/chrysalxsms/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/chrysalxsms/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/chrysalxsms/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1254-number-of-closed-islands](https://github.com/chrysalxsms/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chrysalxsms/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -58,4 +59,20 @@ My LeetCode submissions
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/chrysalxsms/leetcode/tree/master/2409-count-days-spent-together) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/chrysalxsms/leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/chrysalxsms/leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/chrysalxsms/leetcode/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/chrysalxsms/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
